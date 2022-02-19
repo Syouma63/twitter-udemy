@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "952534648040",
+    "project_id": "udemy-chat-1ba10",
+    "storage_bucket": "udemy-chat-1ba10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952534648040:android:59145e427505f1122cf55d",
+        "android_client_info": {
+          "package_name": "com.example.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952534648040-tkvi59sjhhhsh7fa1jg304jnv8l7brgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twitter",
+            "certificate_hash": "99ad5db21edb1eb3f9ecf5bb87e9d1695758231c"
+          }
+        },
+        {
+          "client_id": "952534648040-u5fqd5f8e26f0n4402sfkbuk5mg09akl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3B-bCGV55Rws5miPJrn9hlEF4TvFOus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952534648040-u5fqd5f8e26f0n4402sfkbuk5mg09akl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952534648040-6hiusoj9bdnf0g8m3012a62vrlt08dkg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
